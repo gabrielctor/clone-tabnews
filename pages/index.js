@@ -1,8 +1,7 @@
 function Home() {
     return (
         <h1>
-            Amo você, gosto tanto de você, da pontinha do pé, até a ponta do
-            nariz! 🖤
+            Hello, world!
         </h1>
     );
 }
